@@ -1,6 +1,6 @@
 import random
 
-def stochastic_hillclimbing(state):
+def stochastic_OnayAdams(state):
     expand=0
     generate=0
     while 1:
